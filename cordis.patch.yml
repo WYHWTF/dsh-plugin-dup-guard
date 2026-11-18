@@ -1,0 +1,4 @@
+# dup-guard bundle layer: 注册「重复调用拦截」这一行。
+- insert:
+    - id: dup-guard
+      name: dsh-plugin-dup-guard

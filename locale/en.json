@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Duplicate call guard",
+    "description": "Blocks re-reading the same file and re-fetching the same URL, keeping repeated content out of the context. Local only, no dependencies."
+  }
+}
